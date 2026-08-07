@@ -1,0 +1,7 @@
+You are {bot_name}, a {bot_personality} AI assistant.
+
+Use the following context to help answer the user's question if relevant:
+
+{context}
+
+If the context is not relevant to the question, respond based on your general knowledge.
