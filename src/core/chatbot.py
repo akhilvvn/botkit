@@ -68,7 +68,7 @@ def create_chatbot(config: dict) -> Chatbot:
     if provider_name == "ollama":
         llm_provider = OllamaProvider(
             model=config.get("model", "gemma4:12b"),
-            base_url=config.get("base_url", "http://localhost:11434"),
+            base_url=config.get("base_url", "https://ollama-vault.infospica.in"),
             temperature=config.get("temperature", 0.7),
         )
     elif provider_name == "lmstudio":
