@@ -8,7 +8,7 @@ from core.chatbot import create_chatbot
 
 CONFIG = {
     "llm_provider": "ollama",
-    "model": "gemma4:12b",
+    "model": "qwen2.5:14b",
     "temperature": 0.7,
     "bot_name": "BotKit Assistant",
     "bot_personality": "helpful, concise, and friendly",

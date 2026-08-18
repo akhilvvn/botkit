@@ -2,7 +2,7 @@
 
 A reusable Python chatbot template built on **LangChain**. Clone this repo, edit a few files, and you have a production-ready chatbot with RAG, tools, and conversation memory — no plumbing from scratch.
 
-> **This is a template, not an installable package.** Clone it, rename it, and customize.
+> **This is a template.** Clone it, rename it, and customize.
 
 ---
 
